@@ -1,0 +1,9 @@
+selenium
+webdriver_manager
+pause
+schedule
+tensorflow
+pillow
+numpy
+opencv-python
+docker

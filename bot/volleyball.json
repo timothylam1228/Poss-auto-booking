@@ -1,0 +1,23 @@
+{
+  "develop": false,
+  "play_date": "6 Nov 2022",
+  "book_time": "2022-10-30 08:30:00",
+  "center": "FSC",
+  "account": [
+    {
+      "username": "",
+      "password": "",
+      "start_time": "17:30"
+    },
+    {
+      "username": "",
+      "password": "",
+      "start_time": "18:30"
+    },
+    {
+      "username": "",
+      "password": "",
+      "start_time": "19:30"
+    }
+  ]
+}

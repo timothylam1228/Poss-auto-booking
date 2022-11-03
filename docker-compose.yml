@@ -1,0 +1,15 @@
+version: "1"
+services:
+  captcha:
+    image: "captcha:latest"
+    volumes:
+      - "./model/exported_model:/exported_model"
+    networks:
+      - "captcha"
+    ports:
+      - "9000:9000"
+    restart: always
+  booking-bot:
+    image: polyu-booking-bot:latest
+    networks:
+      - booking-bot
